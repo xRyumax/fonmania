@@ -8,7 +8,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <a href="#" className="text-2xl lg:text-3xl font-bold text-white mb-4 inline-block">
-              Fonmania <span className="text-[#FDBD24]">Móvil</span>
+              Fonmaniax <span className="text-[#FDBD24]">Móvil</span>
             </a>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">
               Especialistas en tecnología con más de 3 años de experiencia. Tu dispositivo en las mejores manos
